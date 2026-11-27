@@ -14,12 +14,12 @@ api/
     schemas.py
   users/
     models.py
-    router.py
     schemas.py
-    security.py
 main.py
 database.py
 ```
+
+Las rutas de usuarios y el hash de contraseñas están definidos en `main.py`.
 
 ## Requisitos
 
