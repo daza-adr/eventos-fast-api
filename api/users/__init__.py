@@ -1,1 +1,1 @@
-"""User API routes."""
+"""User models and schemas."""
